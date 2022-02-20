@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <script>window.alert("This site is under construction. Stay Tuned!") </script>
       </Head>
 
       <main>
